@@ -79,7 +79,7 @@ nav a[aria-current='page'] {
    section div{
     width: 250px;
     background-color: yellow;
-    height: 250px;
+    height: 200px;
     margin: 1px;
    
   }
@@ -256,4 +256,12 @@ h1 {
   padding: 10px;
   min-height: 80px;
   font-size: 11px;
+}
+/*datos de campeones*/
+.paises .foto img{
+width: 100%;
+}
+.resenia p{
+font-size: 16px;
+
 }
